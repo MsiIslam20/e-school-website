@@ -83,6 +83,7 @@ body{
 }
 .cards-inner img{
     width: 65px;
+    height: 83px;
 }
 .cards-inner h5{
     font-weight: 500;
