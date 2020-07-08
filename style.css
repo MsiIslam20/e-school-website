@@ -145,6 +145,7 @@ body{
 .card-footer{
     background: #ffffff;
     border-top: 0px;
+    border-radius: 18px !important;
 }
 .date img{
     width: 24px;
